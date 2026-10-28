@@ -184,7 +184,7 @@ function App() {
           </div>
 
           <div className="overflow-x-auto">
-            <table className="w-full min-w-[650px] text-left">
+            <table className="w-full min-w-650px text-left">
               <thead className="bg-blue-600 text-white">
                 <tr>
                   <th className="p-4">ID</th>
